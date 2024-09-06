@@ -1,0 +1,7 @@
+¿Cuál es el punto más débil de PGP?
+
+El sistema de clave pública es la parte más débil.
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+
+Cuando se realiza una transferencia grande de datos
